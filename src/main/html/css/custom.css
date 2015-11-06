@@ -1,0 +1,86 @@
+@media (min-width: 992px) {
+    .swagger-section .operations h4:after {
+        display: block;
+    }
+}
+/*
+.operation .content h4,
+.operation .samples h4{
+	
+	cursor: pointer;
+	
+}
+
+.operation .content h4::before,
+.operation .samples h4::before { 
+    content: "";
+    
+    border-left: 7px solid transparent;
+    border-right: 7px solid transparent;
+    border-top: 7px solid #5C666F;
+    border-bottom: 0px solid transparent;
+    
+    
+    display: inline-block;
+    margin-bottom: 2px;
+    float:right;
+    
+}
+
+.operation .samples h4::before{
+	
+	border-top-color: #fff;
+	
+}
+
+.swagger-section .operations .content h4:not(.collapsed)::before{
+	
+	border-top: 0px solid transparent;
+    border-bottom: 7px solid #5C666F;
+	
+}
+
+.swagger-section .operations .samples h4:not(.collapsed)::before{
+	
+	border-top: 0px solid transparent;
+    border-bottom: 7px solid #fff;
+	
+}
+
+
+#resources_nav [data-resource]{
+	position: relative;
+}
+
+#resources_nav [data-resource]::after{
+	
+	content: "";
+    
+    border-left: 7px solid transparent;
+    border-right: 7px solid transparent;
+    border-top: 7px solid #5C666F;
+    border-bottom: 0px solid transparent;
+    
+    float: right;
+    position: absolute;
+    top: 15px;
+    right: 15px;
+    
+	
+}
+
+#resources_nav [data-resource].active::after{
+	
+	border-top: 0px solid transparent;
+    border-bottom: 7px solid #5C666F;
+	
+}
+
+.swagger-section .operations {
+    padding: 20px 0px 100px;
+}
+
+.swagger-section .endpoint {
+    margin: 0px 0px 0px;
+}
+*/
